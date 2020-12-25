@@ -7,11 +7,11 @@
     array (
     ),
     'reference' => NULL,
-    'name' => 'ilya/math',
+    'name' => 'ilya_pavlovskyi/math',
   ),
   'versions' => 
   array (
-    'ilya/math' => 
+    'ilya_pavlovskyi/math' =>
     array (
       'pretty_version' => '1.0.0+no-version-set',
       'version' => '1.0.0.0',
