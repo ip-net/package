@@ -1,5 +1,6 @@
 <?php
 
+namespace ilya_pavlovskyi\math;
 
 class Math
 {

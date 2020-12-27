@@ -10,7 +10,9 @@
         }
     ],
     "autoload": {
-        "psr-4": {}
+        "psr-4": {
+            "ilya_pavlovskyi\\math\\": "src/"
+        }
     },
 
 "minimum-stability": "dev",

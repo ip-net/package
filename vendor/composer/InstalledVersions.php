@@ -24,24 +24,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'b181418db3ffc19844e8fe30ca0ecf76ddb70e6f',
     'name' => 'ilya_pavlovskyi/math',
   ),
   'versions' => 
   array (
-    'ilya_pavlovskyi/math' =>
+    'ilya_pavlovskyi/math' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'b181418db3ffc19844e8fe30ca0ecf76ddb70e6f',
     ),
   ),
 );

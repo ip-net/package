@@ -6,4 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'ilya_pavlovskyi\\math\\' => array($baseDir . '/src'),
 );
