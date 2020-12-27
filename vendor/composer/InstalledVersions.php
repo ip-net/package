@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'b181418db3ffc19844e8fe30ca0ecf76ddb70e6f',
+    'reference' => 'a7ba10a9a64207798dfe96c7814a1c63c77dfb92',
     'name' => 'ilya_pavlovskyi/math',
   ),
   'versions' => 
@@ -41,7 +41,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'b181418db3ffc19844e8fe30ca0ecf76ddb70e6f',
+      'reference' => 'a7ba10a9a64207798dfe96c7814a1c63c77dfb92',
     ),
   ),
 );
